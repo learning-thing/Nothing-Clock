@@ -15,9 +15,10 @@ Getting Started
 Prerequisites
 
 Before you begin, ensure you have the following installed:
-
+    
     Android Studio
     JDK 11 or higher
+    git
 
 ## Installation
 Clone the repository:
